@@ -1,0 +1,95 @@
+:root {
+  /* ── Brand palette ── */
+  --brand-50:  #f0f4ff;
+  --brand-100: #e0e9ff;
+  --brand-200: #c7d7fe;
+  --brand-300: #a5b8fc;
+  --brand-400: #818cf8;
+  --brand-500: #6366f1;
+  --brand-600: #4f46e5;
+  --brand-700: #4338ca;
+  --brand-800: #3730a3;
+  --brand-900: #312e81;
+
+  /* ── Neutral / surface ── */
+  --surface-0:   #ffffff;
+  --surface-50:  #fafafa;
+  --surface-100: #f4f4f5;
+  --surface-200: #e4e4e7;
+  --surface-300: #d4d4d8;
+  --surface-400: #a1a1aa;
+  --surface-500: #71717a;
+  --surface-600: #52525b;
+  --surface-700: #3f3f46;
+  --surface-800: #27272a;
+  --surface-900: #18181b;
+  --surface-950: #09090b;
+
+  /* ── Status colours ── */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger:  #f43f5e;
+  --color-info:    #22d3ee;
+
+  /* ── Typography ── */
+  --font-sans:    'Sora', sans-serif;
+  --font-mono:    'JetBrains Mono', monospace;
+
+  --text-xs:   0.75rem;    /* 12px */
+  --text-sm:   0.875rem;   /* 14px */
+  --text-base: 1rem;       /* 16px */
+  --text-lg:   1.125rem;   /* 18px */
+  --text-xl:   1.25rem;    /* 20px */
+  --text-2xl:  1.5rem;     /* 24px */
+  --text-3xl:  1.875rem;   /* 30px */
+  --text-4xl:  2.25rem;    /* 36px */
+
+  /* ── Spacing ── */
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-5:  1.25rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+
+  /* ── Radius ── */
+  --radius-sm:   6px;
+  --radius-md:   10px;
+  --radius-lg:   14px;
+  --radius-xl:   18px;
+  --radius-2xl:  24px;
+  --radius-full: 9999px;
+
+  /* ── Shadows ── */
+  --shadow-xs:    0 1px 2px 0 rgba(0,0,0,0.04);
+  --shadow-sm:    0 1px 3px 0 rgba(0,0,0,0.06), 0 1px 2px -1px rgba(0,0,0,0.04);
+  --shadow-md:    0 4px 12px 0 rgba(0,0,0,0.08);
+  --shadow-lg:    0 10px 30px -5px rgba(0,0,0,0.12);
+  --shadow-xl:    0 20px 60px -10px rgba(0,0,0,0.18);
+  --shadow-brand: 0 4px 24px -4px rgba(99,102,241,0.38);
+  --shadow-card:  0 1px 3px 0 rgba(0,0,0,0.04), 0 1px 2px -1px rgba(0,0,0,0.04);
+
+  /* ── Transitions ── */
+  --transition-fast:   all 0.1s ease;
+  --transition-normal: all 0.2s ease;
+  --transition-slow:   all 0.35s ease;
+
+  /* ── Z-index layers ── */
+  --z-dropdown: 20;
+  --z-sticky:   30;
+  --z-overlay:  40;
+  --z-modal:    50;
+  --z-toast:    60;
+
+  /* ── Sidebar ── */
+  --sidebar-width: 240px;
+
+  /* ── Navbar ── */
+  --navbar-height: 56px;
+}
