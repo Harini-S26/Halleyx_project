@@ -148,4 +148,4 @@ npm install
 
 That's it! ✅
 
-video link:https://drive.google.com/file/d/1OyxOUyhjK0MjA31-eoXVB5qAqSNCm8H6/view?usp=drivesdk
+video link:https://drive.google.com/file/d/1JGOIJMEeCv-5wNQKJLPJ9vXueSwLWekn/view?usp=drivesdk
